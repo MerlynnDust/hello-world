@@ -1,2 +1,2 @@
 # hello-world
-This is a hello world tutorial.
+I'm a web developer who sometimes does software development.
